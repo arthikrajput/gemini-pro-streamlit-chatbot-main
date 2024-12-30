@@ -34,3 +34,8 @@ This repository contains a Streamlit-based chatbot powered by the Gemini API. Us
 - **Technologies Used**: Python, Streamlit, Gemini API  
 - **Project Structure**: `main.py` (application entry point), `requirements.txt` (dependencies), `.env` (environment variables)
 
+
+## Screenshot
+
+![Screenshot](ss.png)
+
